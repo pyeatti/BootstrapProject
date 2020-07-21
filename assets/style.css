@@ -1,0 +1,108 @@
+body {
+    background: #007bff;
+    background: linear-gradient(to right, #bbbbbb, #dbdbdb);
+  }
+
+
+
+
+
+  /*  NAV STYLING BELOW */
+.navbar-nav {
+    float: right;
+    position: fixed;
+    right: 10px;
+    border-right: 10px;
+    margin-right: 10px;
+}
+
+.nav-link {
+    font-size: 14px;
+    border-left: 1px;
+    border-left-style: solid;
+    border-color: #cccccc;
+    padding: 0px 0px;
+}
+
+.navbar {
+	padding: 0;
+  }
+  
+  .navbar-light .navbar-brand {
+	color: white;
+	font-family: Georgia, "Times New Roman", Times, Serif;
+	font-size: 32px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: 700;
+    left: 90px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+ .navbar-light .navbar-brand:hover {
+    color: yellow;
+
+}
+
+.navbar-brand {
+	background-color: rgb(200, 200, 200);
+	padding: 10px 25px;
+}
+
+.noBorder {
+    border-left: 0px;
+}
+
+
+
+
+/* FORM STYLING BELOW */
+
+.boxBorderBottom {
+    border-bottom: 1px solid grey;
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+/* END FORM STYLING */
+footer {
+   
+    position: fixed;
+	background-color: rgb(234, 234, 234);
+    color: rgb(87, 87, 87);
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 90%;
+	height: 100px;
+	line-height: 100px;
+    text-align: center;
+	border-top: 3px solid white;
+  }
+
+  html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+/* Other Classes for Page Styling */
+
+
+

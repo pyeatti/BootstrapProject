@@ -10,7 +10,13 @@ Unfinished project. Submiting with skeleton styling. Will revisit and finish to 
 
 # LINK #
 
- [DEPLO]()
+ https://pyeatti.github.io/BootstrapProject/
 
  ## NEED TO LEARN PROPER ETIQUITE FOR THE README.md DOCS ##
 
+![](./deployedImages/contactSmall)
+![](./deployedImages/contactBig)
+![](./deployedImages/aboutmeSmall)
+![](./deployedImages/aboutmeBig)
+![](./deployedImages/portfolioSmall)
+![](./deployedImages/portfolioBIg)

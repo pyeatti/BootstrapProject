@@ -8,7 +8,7 @@ This project is a responsive portfolio website, using bootstrap components.
 - Added Project 1
 - Added Project 2
 
-# LINK #
+## Link to Deployed
 
  https://pyeatti.github.io/BootstrapProject/
 

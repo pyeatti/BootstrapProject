@@ -1,12 +1,12 @@
 # BootstrapProject
 
-# PROJECT GOAL #
+## Description
 
-Create a responsive site using bootstrap elements.
+This project is a responsive portfolio website, using bootstrap components.
 
-# STATUS : UNFINISHED #
-
-Unfinished project. Submiting with skeleton styling. Will revisit and finish to a presentable state.
+## Updates
+- Added Project 1
+- Added Project 2
 
 # LINK #
 
@@ -14,9 +14,7 @@ Unfinished project. Submiting with skeleton styling. Will revisit and finish to 
 
  ## NEED TO LEARN PROPER ETIQUITE FOR THE README.md DOCS ##
 
-![](./deployedImages/contactSmall)
-![](./deployedImages/contactBig)
-![](./deployedImages/aboutmeSmall)
-![](./deployedImages/aboutmeBig)
-![](./deployedImages/portfolioSmall)
-![](./deployedImages/portfolioBIg)
+![contact mobile](./deployedImages/contactSmall.png)
+![contact web](./deployedImages/contactBig.png)
+![about me mobile](./deployedImages/aboutmeSmall.png)
+![about me web](./deployedImages/aboutmeBig.png)

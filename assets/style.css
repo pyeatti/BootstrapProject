@@ -102,19 +102,9 @@ body {
     max-width: none;
     max-height: none;
   }
-
-  .navbar-expand-lg,
-  .navbar-collapse {
-    display: flex;
-    justify-content: flex-start;
-  }
 }
 
 @media only screen and (max-width: 980px) {
-  .navbar-brand {
-    font-size: 4rem;
-    text-align: center;
-  }
   .navbar-expand-lg,
   .navbar-collapse {
     display: flex;
